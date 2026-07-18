@@ -81,13 +81,32 @@ Variables de comportamiento
 
 ![Variables de comportamiento](Images/variables_comportamiento.png)
 
+Los clientes que abandonaron el servicio presentan un menor número de transacciones, un menor gasto y mayores niveles de inactividad, lo que sugiere que el comportamiento del cliente es un indicador importante del riesgo de abandono.
+
 Tasa de abandono según el nivel de uso de la tarjeta
 
 ![Tasa de abandono según el nivel de uso](Images/nivel_abandono.png)
 
+Los clientes con un bajo nivel de uso presentan la mayor tasa de abandono, mientras que aquellos con un uso frecuente tienen una mayor probabilidad de permanecer en el banco.
+
 Tasa de abandono según el número de productos financieros
 
 ![Tasa de abandono según el número de productos](Images/tasa_abandono_pro_finan.png)
+
+Los clientes que poseen un mayor número de productos financieros muestran una menor tasa de abandono, lo que evidencia la importancia de fortalecer la relación con el cliente.
+
+Habilidades demostradas:
+
+- Limpieza y transformación de datos con Python.
+- Análisis exploratorio de datos (EDA).
+- Visualización de datos con Matplotlib y Seaborn.
+- Segmentación de clientes.
+- Identificación de patrones y tendencias.
+- Elaboración de recomendaciones de negocio basadas en datos.
+
+Como ejecutar el proyecto
+
+
 
 
 
