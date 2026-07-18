@@ -79,7 +79,7 @@ Vista previa del proyecto
 
 Variables de comportamiento
 
-![Variables de comportamiento](images/variables_comportamiento.png)
+![Variables de comportamiento](Images/variables_comportamiento.png)
 
 
 
