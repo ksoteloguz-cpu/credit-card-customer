@@ -87,7 +87,7 @@ Tasa de abandono según el nivel de uso de la tarjeta
 
 Tasa de abandono según el número de productos financieros
 
-![Tasa de abandono según el número de productos](tasa_abandono_pro_finan.png)
+![Tasa de abandono según el número de productos](Images/tasa_abandono_pro_finan.png)
 
 
 
