@@ -75,3 +75,8 @@ Con base en los resultados obtenidos, se proponen las siguientes acciones:
 - Diseñar campañas para incentivar el uso de la tarjeta de crédito mediante promociones y programas de recompensas.
 - Fortalecer la relación con los clientes mediante estrategias de venta cruzada de productos financieros.
 
+Vista previa del proyecto
+
+
+
+
