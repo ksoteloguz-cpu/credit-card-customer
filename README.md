@@ -1,10 +1,10 @@
 # credit-card-customer
 
-Proyecto de análisis de datos cuyo objetivo es identificar los factores asociados con el abandono de clientes de tarjetas de crédito mediante técnicas de análisis exploratorio de datos (EDA) y generar recomendaciones de negocio orientadas a mejorar la retención de clientes.
+Proyecto de análisis de datos cuyo objetivo es identificar los factores asociados con el abandono de clientes de tarjetas de crédito mediante técnicas de análisis exploratorio de datos (EDA) y recomendaciones de negocio orientadas a mejorar la retención de clientes.
 
 Descripción del proyecto
 
-Este proyecto tiene como objetivo analizar el comportamiento de los clientes de tarjetas de crédito para identificar los factores asociados con el abandono del servicio (customer attrition). Mediante técnicas de análisis exploratorio de datos (EDA), se estudiaron variables demográficas, financieras y de comportamiento con el propósito de identificar los segmentos con mayor riesgo de abandono y desarrollar recomendaciones de negocio orientadas a mejorar la retención de clientes.
+Este proyecto analiza los factores asociados con el abandono de clientes de tarjetas de crédito mediante un análisis exploratorio de datos. A partir del estudio de variables demográficas, financieras y de comportamiento, se identifican patrones que permiten reconocer a los clientes con mayor riesgo de abandono y proponer estrategias para fortalecer la permanencia de los clientes.
 
 El proyecto fue desarrollado siguiendo el proceso de análisis de datos propuesto por el Certificado Profesional de Análisis de Datos de Google, compuesto por las siguientes fases:
 
