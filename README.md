@@ -77,6 +77,11 @@ Con base en los resultados obtenidos, se proponen las siguientes acciones:
 
 Vista previa del proyecto
 
+Variables de comportamiento
+
+![Variables de comportamiento](images/variables_comportamiento.png)
+
+
 
 
 
