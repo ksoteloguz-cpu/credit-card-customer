@@ -105,7 +105,9 @@ Habilidades demostradas:
 - Elaboración de recomendaciones de negocio basadas en datos.
 
 Como ejecutar el proyecto
-
+1. Descarga el notebook de este repositorio.
+2. Descarga el conjunto de datos desde Kaggle.
+3. Sube ambos archivos a un nuevo Notebook de Kaggle o ejecútalos en Jupyter Notebook.
 
 
 
