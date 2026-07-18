@@ -81,7 +81,13 @@ Variables de comportamiento
 
 ![Variables de comportamiento](Images/variables_comportamiento.png)
 
+Tasa de abandono según el nivel de uso de la tarjeta
 
+![Tasa de abandono según el nivel de uso](Images/nivel_abandono.png)
+
+Tasa de abandono según el número de productos financieros
+
+![Tasa de abandono según el número de productos](tasa_abandono_pro_finan.png)
 
 
 
