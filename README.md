@@ -2,7 +2,7 @@
 
 Proyecto de análisis de datos cuyo objetivo es identificar los factores asociados con el abandono de clientes de tarjetas de crédito mediante técnicas de análisis exploratorio de datos (EDA) y recomendaciones de negocio orientadas a mejorar la retención de clientes.
 
-Descripción del proyecto
+## Descripción del proyecto
 
 Este proyecto analiza los factores asociados con el abandono de clientes de tarjetas de crédito mediante un análisis exploratorio de datos. A partir del estudio de variables demográficas, financieras y de comportamiento, se identifican patrones que permiten reconocer a los clientes con mayor riesgo de abandono y proponer estrategias para fortalecer la permanencia de los clientes.
 
@@ -15,40 +15,40 @@ El proyecto fue desarrollado siguiendo el proceso de análisis de datos propuest
 - Compartir (Share)
 - Actuar (Act)
   
-Problema de negocio
+## Problema de negocio
 
 La pérdida de clientes representa uno de los principales desafíos para las instituciones financieras, ya que retener a un cliente suele ser menos costoso que adquirir uno nuevo. Por ello, este proyecto busca identificar las variables que presentan una mayor relación con el abandono de clientes para generar recomendaciones que ayuden a reducir la tasa de cancelación de tarjetas de crédito.
 
-Objetivos
+## Objetivos
 
 Objetivo general: Analizar el comportamiento de los clientes de tarjetas de crédito para identificar los factores asociados con el abandono del servicio y generar recomendaciones de negocio orientadas a mejorar la retención de clientes.
 
-Objetivos específicos
+## Objetivos específicos
 
 - Analizar las características demográficas y financieras de los clientes.
 - Identificar diferencias entre clientes activos y clientes que abandonaron el servicio.
 - Clasificar a los clientes según sus niveles de uso y comportamiento financiero.
 - Proponer recomendaciones de negocio para reducir la tasa de abandono.
 
-Preguntas de negocio
+## Preguntas de negocio
 
 - ¿Cuáles son las características de los clientes que abandonan el servicio de tarjeta de crédito?
 - ¿Qué variables presentan mayor relación con el abandono de clientes?
 - ¿Qué segmentos de clientes presentan un mayor riesgo de abandono?
 - ¿Qué estrategias pueden implementarse para mejorar la retención de clientes?
 
-Conjunto de datos
+## Conjunto de datos
 
 - Fuente: Kaggle
 - Nombre del conjunto de datos: Credit Card Customers
 - Número de registros: 10,127 clientes
 - Número de variables: 23
 
-Enlace al conjunto de datos:
+## Enlace al conjunto de datos:
 
 https://www.kaggle.com/code/kevinsotelog/credit-card-customer-attrition-analysis
 
-Herramientas utilizadas
+## Herramientas utilizadas
 
 - Python
 - Pandas
@@ -57,7 +57,7 @@ Herramientas utilizadas
 - Seaborn
 - Kaggle Notebook
 
-Principales hallazgos
+## Principales hallazgos
 
 Durante el análisis se identificaron los siguientes resultados:
 
@@ -67,7 +67,7 @@ Durante el análisis se identificaron los siguientes resultados:
 - Una baja utilización de la línea de crédito está asociada con una mayor probabilidad de abandono.
 - Las variables relacionadas con el comportamiento de los clientes presentan una mayor relación con el abandono que las variables demográficas.
 
-Recomendaciones de negocio
+## Recomendaciones de negocio
 
 Con base en los resultados obtenidos, se proponen las siguientes acciones:
 
@@ -75,7 +75,7 @@ Con base en los resultados obtenidos, se proponen las siguientes acciones:
 - Diseñar campañas para incentivar el uso de la tarjeta de crédito mediante promociones y programas de recompensas.
 - Fortalecer la relación con los clientes mediante estrategias de venta cruzada de productos financieros.
 
-Vista previa del proyecto
+## Vista previa del proyecto
 
 Variables de comportamiento
 
@@ -95,7 +95,7 @@ Tasa de abandono según el número de productos financieros
 
 Los clientes que poseen un mayor número de productos financieros muestran una menor tasa de abandono, lo que evidencia la importancia de fortalecer la relación con el cliente.
 
-Habilidades demostradas:
+## Habilidades demostradas:
 
 - Limpieza y transformación de datos con Python.
 - Análisis exploratorio de datos (EDA).
@@ -104,7 +104,7 @@ Habilidades demostradas:
 - Identificación de patrones y tendencias.
 - Elaboración de recomendaciones de negocio basadas en datos.
 
-Como ejecutar el proyecto
+## Como ejecutar el proyecto
 1. Descarga el notebook de este repositorio.
 2. Descarga el conjunto de datos desde Kaggle.
 3. Sube ambos archivos a un nuevo Notebook de Kaggle o ejecútalos en Jupyter Notebook.
