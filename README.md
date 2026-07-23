@@ -1,54 +1,54 @@
 # credit-card-customer
 
-Proyecto de análisis de datos cuyo objetivo es identificar los factores asociados con el abandono de clientes de tarjetas de crédito mediante técnicas de análisis exploratorio de datos (EDA) y recomendaciones de negocio orientadas a mejorar la retención de clientes.
+A data analysis project aimed at identifying the factors associated with credit card customer churn through exploratory data analysis (EDA) techniques and business recommendations designed to improve customer retention.
 
-## Descripción del proyecto
+## Project Description
 
-Este proyecto analiza los factores asociados con el abandono de clientes de tarjetas de crédito mediante un análisis exploratorio de datos. A partir del estudio de variables demográficas, financieras y de comportamiento, se identifican patrones que permiten reconocer a los clientes con mayor riesgo de abandono y proponer estrategias para fortalecer la permanencia de los clientes.
+This project analyzes the factors associated with credit card customer churn through exploratory data analysis. By examining demographic, financial, and behavioral variables, it identifies patterns that help recognize customers at the highest risk of churning and proposes strategies to strengthen customer retention.
 
-El proyecto fue desarrollado siguiendo el proceso de análisis de datos propuesto por el Certificado Profesional de Análisis de Datos de Google, compuesto por las siguientes fases:
+The project was developed following the data analysis process proposed in the Google Data Analytics Professional Certificate, which consists of the following phases:
 
-- Preguntar (Ask)
-- Preparar (Prepare)
-- Procesar (Process)
-- Analizar (Analyze)
-- Compartir (Share)
-- Actuar (Act)
-  
-## Problema de negocio
+- Ask
+- Prepare
+- Process
+- Analyze
+- Share
+- Act
 
-La pérdida de clientes representa uno de los principales desafíos para las instituciones financieras, ya que retener a un cliente suele ser menos costoso que adquirir uno nuevo. Por ello, este proyecto busca identificar las variables que presentan una mayor relación con el abandono de clientes para generar recomendaciones que ayuden a reducir la tasa de cancelación de tarjetas de crédito.
+## Business Problem
 
-## Objetivos
+Customer churn is one of the main challenges faced by financial institutions, as retaining an existing customer is generally less costly than acquiring a new one. Therefore, this project aims to identify the variables most strongly associated with customer churn and provide business recommendations to help reduce the credit card cancellation rate.
 
-Objetivo general: Analizar el comportamiento de los clientes de tarjetas de crédito para identificar los factores asociados con el abandono del servicio y generar recomendaciones de negocio orientadas a mejorar la retención de clientes.
+## Objectives
 
-## Objetivos específicos
+**General Objective:** Analyze the behavior of credit card customers to identify the factors associated with customer churn and generate business recommendations aimed at improving customer retention.
 
-- Analizar las características demográficas y financieras de los clientes.
-- Identificar diferencias entre clientes activos y clientes que abandonaron el servicio.
-- Clasificar a los clientes según sus niveles de uso y comportamiento financiero.
-- Proponer recomendaciones de negocio para reducir la tasa de abandono.
+## Specific Objectives
 
-## Preguntas de negocio
+- Analyze the demographic and financial characteristics of customers.
+- Identify differences between active customers and customers who churned.
+- Classify customers according to their credit card usage and financial behavior.
+- Propose business recommendations to reduce the customer churn rate.
 
-- ¿Cuáles son las características de los clientes que abandonan el servicio de tarjeta de crédito?
-- ¿Qué variables presentan mayor relación con el abandono de clientes?
-- ¿Qué segmentos de clientes presentan un mayor riesgo de abandono?
-- ¿Qué estrategias pueden implementarse para mejorar la retención de clientes?
+## Business Questions
 
-## Conjunto de datos
+- What are the characteristics of customers who churn from the credit card service?
+- Which variables are most strongly associated with customer churn?
+- Which customer segments are at the highest risk of churn?
+- What strategies can be implemented to improve customer retention?
 
-- Fuente: Kaggle
-- Nombre del conjunto de datos: Credit Card Customers
-- Número de registros: 10,127 clientes
-- Número de variables: 23
+## Dataset
 
-## Enlace al conjunto de datos:
+- **Source:** Kaggle
+- **Dataset Name:** Credit Card Customers
+- **Number of Records:** 10,127 customers
+- **Number of Variables:** 23
+
+## Dataset Link:
 
 https://www.kaggle.com/code/kevinsotelog/credit-card-customer-attrition-analysis
 
-## Herramientas utilizadas
+## Tools Used
 
 - Python
 - Pandas
@@ -57,58 +57,58 @@ https://www.kaggle.com/code/kevinsotelog/credit-card-customer-attrition-analysis
 - Seaborn
 - Kaggle Notebook
 
-## Principales hallazgos
+## Key Findings
 
-Durante el análisis se identificaron los siguientes resultados:
+The analysis revealed the following key findings:
 
-- Los clientes que realizan un menor número de transacciones presentan una mayor probabilidad de abandonar el servicio.
-- Los clientes con un menor monto de compras también muestran una mayor tasa de abandono.
-- Los clientes con uno o dos productos financieros presentan un riesgo significativamente mayor de abandonar el banco.
-- Una baja utilización de la línea de crédito está asociada con una mayor probabilidad de abandono.
-- Las variables relacionadas con el comportamiento de los clientes presentan una mayor relación con el abandono que las variables demográficas.
+- Customers who make fewer transactions are more likely to churn.
+- Customers with lower purchase amounts also exhibit higher churn rates.
+- Customers who hold only one or two financial products are at a significantly higher risk of leaving the bank.
+- Low credit utilization is associated with a higher probability of customer churn.
+- Behavioral variables are more strongly associated with customer churn than demographic variables.
 
-## Recomendaciones de negocio
+## Business Recommendations
 
-Con base en los resultados obtenidos, se proponen las siguientes acciones:
+Based on the findings, the following actions are recommended:
 
-- Implementar un sistema de alerta temprana para identificar clientes con disminución en el uso de la tarjeta.
-- Diseñar campañas para incentivar el uso de la tarjeta de crédito mediante promociones y programas de recompensas.
-- Fortalecer la relación con los clientes mediante estrategias de venta cruzada de productos financieros.
+- Implement an early warning system to identify customers whose credit card usage has significantly declined.
+- Develop marketing campaigns to encourage credit card usage through promotions and rewards programs.
+- Strengthen customer relationships by implementing cross-selling strategies for additional financial products.
 
-## Vista previa del proyecto
+## Project Preview
 
-Variables de comportamiento
+### Behavioral Variables
 
 ![Variables de comportamiento](Images/variables_comportamiento.png)
 
-Los clientes que abandonaron el servicio presentan un menor número de transacciones, un menor gasto y mayores niveles de inactividad, lo que sugiere que el comportamiento del cliente es un indicador importante del riesgo de abandono.
+Customers who churned exhibit fewer transactions, lower spending, and higher levels of inactivity, suggesting that customer behavior is a key indicator of churn risk.
 
-Tasa de abandono según el nivel de uso de la tarjeta
+Churn Rate by Credit Card Usage Level
 
 ![Tasa de abandono según el nivel de uso](Images/nivel_abandono.png)
 
-Los clientes con un bajo nivel de uso presentan la mayor tasa de abandono, mientras que aquellos con un uso frecuente tienen una mayor probabilidad de permanecer en el banco.
+Customers with low credit card usage exhibit the highest churn rates, whereas those who use their credit cards more frequently are more likely to remain with the bank.
 
-Tasa de abandono según el número de productos financieros
+Churn Rate by Number of Financial Products
 
 ![Tasa de abandono según el número de productos](Images/tasa_abandono_pro_finan.png)
 
-Los clientes que poseen un mayor número de productos financieros muestran una menor tasa de abandono, lo que evidencia la importancia de fortalecer la relación con el cliente.
+Customers who hold a larger number of financial products exhibit lower churn rates, highlighting the importance of strengthening the customer–bank relationship.
 
-## Habilidades demostradas:
+## Skills Demonstrated
 
-- Limpieza y transformación de datos con Python.
-- Análisis exploratorio de datos (EDA).
-- Visualización de datos con Matplotlib y Seaborn.
-- Segmentación de clientes.
-- Identificación de patrones y tendencias.
-- Elaboración de recomendaciones de negocio basadas en datos.
+- Data cleaning and transformation using Python.
+- Exploratory Data Analysis (EDA).
+- Data visualization with Matplotlib and Seaborn.
+- Customer segmentation.
+- Pattern and trend identification.
+- Development of data-driven business recommendations.
 
-## Como ejecutar el proyecto
-1. Descarga el notebook de este repositorio.
-2. Descarga el conjunto de datos desde Kaggle.
-3. Sube ambos archivos a un nuevo Notebook de Kaggle o ejecútalos en Jupyter Notebook.
+## How to Run the Project
 
+1. Download the notebook from this repository.
+2. Download the dataset from Kaggle.
+3. Upload both files to a new Kaggle Notebook or run them locally using Jupyter Notebook.
 
 
 
